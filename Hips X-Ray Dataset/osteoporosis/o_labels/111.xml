@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>111.png</filename>
+	<path>/my-project-name/111.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>978</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>osteoporosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>202</ymin>
+			<xmax>436</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
