@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>32nn.JPEG</filename>
+	<path>/my-project-name/32nn.JPEG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>425</ymin>
+			<xmax>411</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>
