@@ -1,0 +1,13 @@
+CUDA is not a requirement for running InceptionNet and ResNet-50 models, so these can be run on any Python IDLE or Interpreter. For the Osteoporosis prediction using YOLOv7 and YOLOv8 though, a GPU is required on the system. If not, then it can be run on Google Colab.
+
+To run the codes smoothly you should have the following versions of the Python Libraries -
+
+Tensorflow - 2.12.0-rc0
+Numpy - 1.24.3
+Matplotlib - 3.7.0
+split_folders-0.5.1
+sklearn - 1.1.1
+keras - 2.12.0
+skimage - 0.19.3
+cv2 - 4.7.0
+seaborn - 0.12.2
